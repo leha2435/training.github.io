@@ -1,1 +1,1 @@
-# genius-lesson-training.github.io
+training.github.io
